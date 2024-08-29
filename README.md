@@ -15,10 +15,11 @@ This repository contains the solutions for Problems 1, 2, and 3 as described in 
 ### Clone the Repository
 
 Start by cloning this repository to your local machine:
-    ```sh
-    git clone https://github.com/aryawidjaja/bytegenie-final-evaluation.git
-    cd bytegenie-final-evaluation
-    ```
+
+```sh
+git clone https://github.com/aryawidjaja/bytegenie-final-evaluation.git
+cd bytegenie-final-evaluation
+```
 
 ### Create and Activate a Virtual Environment
 Before running the solutions, it's recommended to use a virtual environment:
