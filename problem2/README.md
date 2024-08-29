@@ -48,6 +48,8 @@ The `query_data` function allows filtering based on multiple conditions and retu
     output_columns = ['event_city', 'event_name', 'event_country', 'company_industry', 'company_name', 'person_first_name', 'person_last_name', 'person_seniority', 'person_email']
     ```
 
+If you want to see the results directly, please take a look at `problem2/documentation/problem2-result.png`.
+
 ### How It Works
 
 1. **Filter `event_attributes` Table:**
@@ -64,7 +66,3 @@ The `query_data` function allows filtering based on multiple conditions and retu
 
 5. **Combine Results:**
    - Finally, the relevant data is combined based on the relationships between `event_url`, `company_url`, and `person_id`, and the specified output columns are returned.
-
-### Conclusion
-
-This solution is flexible and can handle a wide range of queries involving events, companies, and people attributes, ensuring that only relevant data is returned based on the specified filters.

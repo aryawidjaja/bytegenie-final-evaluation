@@ -12,6 +12,14 @@ This repository contains the solutions for Problems 1, 2, and 3 as described in 
 
 ## How to Run the Solutions
 
+### Clone the Repository
+
+Start by cloning this repository to your local machine:
+    ```sh
+    git clone https://github.com/aryawidjaja/bytegenie-final-evaluation.git
+    cd bytegenie-final-evaluation
+    ```
+
 ### Create and Activate a Virtual Environment
 Before running the solutions, it's recommended to use a virtual environment:
 
@@ -77,4 +85,3 @@ To run the solution for Problem 2:
 ### Problem 3
 
 Problem 3 is a conceptual explanation and does not require code execution. The answer for this problem is written in `problem3/solution.md`
-

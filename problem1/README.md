@@ -58,3 +58,5 @@ Here’s an example of how to use the `DataFilter` class to filter the dataframe
 
 2. **Accessing Filtered Data**:
    - The `DataFilter` class merges the relevant dataframes and applies the specified filters to return the filtered results. The filtered data is then printed to the console.
+
+If you want to see the results directly, please take a look at `problem1/documentation/problem1-result.png`.
